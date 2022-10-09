@@ -1,0 +1,29 @@
+{
+  "name": "crawl-node",
+  "version": "1.0.0",
+  "description": "get music",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/npm/cli.git"
+  },
+  "keywords": [
+    "nightmare",
+    "crawlmusic"
+  ],
+  "author": "Thong",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/npm/cli/issues"
+  },
+  "homepage": "https://github.com/npm/cli#readme",
+  "dependencies": {
+    "async": "^3.1.0",
+    "mysql": "^2.17.1",
+    "nightmare": "^3.0.2",
+    "shelljs": "^0.8.3"
+  }
+}
